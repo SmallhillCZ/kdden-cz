@@ -1,0 +1,9 @@
+# compiled output
+/build
+/tmp
+
+# dependencies
+/node_modules
+
+# misc
+/typings
